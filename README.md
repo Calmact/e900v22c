@@ -1,4 +1,4 @@
-# 〇、简介与概述
+# 〇、简介与概述[https://docs.qq.com/doc/DWFprWWxZa290VXNk]
 本文档所有人都可以查看，主要有群主（QQ群：320724049）维护，不定时更新。如果你有补充的，联系群主获取编辑权限，编辑方法和word相同。
 ## 0.1 群简介
     本群（QQ群：320724049）主要交流E900V22C等机顶盒的刷机技术，包括但不限于安卓9、EmuELEC、CoreELEC、armbian、OpenWRT、ATV(android TV)等
