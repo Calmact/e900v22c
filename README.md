@@ -40,6 +40,10 @@ TG群: https://t.me/e900v22c
 
 ### 简要参数
 
+
+
+| 项目           |                                                 详情                                                       |
+|----------------|------------------------------------------------------------------------------------------------------------|
 | SoC            | S905L3A-B 和 S905L3A两种CPU S905L3A-B盒子底部标有Dolby Audio杜比音效标志，两种线刷救砖时有区别，卡刷无区别 |
 | CPU            | 4x Arm Cortex-A53 @ 1.80 GHz                                                                               |
 | GPU            | Mali-G31 MP2 with OpenGL ES 3.2, Vulkan 1.0, and OpenCL 2.0                                                |
@@ -52,7 +56,6 @@ TG群: https://t.me/e900v22c
 | 蓝牙           | BT5.0                                                                                                      |
 | 有线网络       | 10/100M                                                                                                    |
 | HDMI           | 2.0                                                                                                        |
-
 ### 拆机照片
 
 ![descript](media/b46dbe4fa0c272f863daf96a11e90f9e.png)![descript](media/58bfe24c3023b9aaac8380aceebbf39f.png)
@@ -69,7 +72,6 @@ TG群: https://t.me/e900v22c
 # 以下内容详见在线文档 <https://docs.qq.com/doc/DWFprWWxZa290VXNk> 或讨论组 QQ群: 320724049/ TG群: https://t.me/e900v22c
 
 ## 0.4 FAQ
-
 
 ## 0.5 TF卡加装
 
