@@ -47,7 +47,7 @@ TG群: https://t.me/e900v22c
 | SoC            | S905L3A-B 和 S905L3A两种CPU S905L3A-B盒子底部标有Dolby Audio杜比音效标志，两种线刷救砖时有区别，卡刷无区别 |
 | CPU            | 4x Arm Cortex-A53 @ 1.80 GHz                                                                               |
 | GPU            | Mali-G31 MP2 with OpenGL ES 3.2, Vulkan 1.0, and OpenCL 2.0                                                |
-| Video Decoding | H.265(HEVC), VP9, AVS2 up to 4Kp75 10bit, H.264 up to 4Kp30（vp9解码被阉割）                               |
+| Video Decoding | H.265(HEVC), ~~VP9~~, AVS2 up to 4Kp75 10bit, H.264 up to 4Kp30（VP9解码被阉割）                               |
 | Video Encoding | H264 *H265* up to *1080p*                                                                                  |
 | RAM            | 2G DDR4（Rayson RS512M32LM4 D2BDS）                                                                        |
 | ROM            | 8G eMMC5.1（SGM8000C-S27B8G）                                                                              |
