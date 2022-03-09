@@ -8,9 +8,9 @@ TG群: https://t.me/e900v22c
 
 # 〇、简介与概述
 
-本文档[https://docs.qq.com/doc/DWFprWWxZa290VXNk]所有人都可以查看，主要由群主（QQ群：320724049）进行维护，不定时更新。如果你有补充的，联系群主获取编辑权限，编辑方法和word相同。
+本文档 <https://docs.qq.com/doc/DWFprWWxZa290VXNk> 所有人都可以查看，主要由群主（QQ群：320724049）进行维护，不定时更新。如果你有补充的，联系群主获取编辑权限，编辑方法和word相同。
 
-跟着[Flippy大佬](https://www.right.com.cn/forum/thread-4076037-1-1.html)一起学习破解e900v22c，期待你的加入，详见更多聊天组：<https://t.me/e900v22c>，。
+跟着[Flippy大佬](https://www.right.com.cn/forum/thread-4076037-1-1.html) 一起学习破解e900v22c，期待你的加入，详见更多聊天组：<https://t.me/e900v22c>，。
 
 ## 0.0 更新日志
 
@@ -33,7 +33,6 @@ TG群: https://t.me/e900v22c
 ### 简要参数
 
 | SoC            | S905L3A-B 和 S905L3A两种CPU S905L3A-B盒子底部标有Dolby Audio杜比音效标志，两种线刷救砖时有区别，卡刷无区别 |
-|----------------|------------------------------------------------------------------------------------------------------------|
 | CPU            | 4x Arm Cortex-A53 @ 1.80 GHz                                                                               |
 | GPU            | Mali-G31 MP2 with OpenGL ES 3.2, Vulkan 1.0, and OpenCL 2.0                                                |
 | Video Decoding | H.265(HEVC), VP9, AVS2 up to 4Kp75 10bit, H.264 up to 4Kp30（vp9解码被阉割）                               |
@@ -59,14 +58,6 @@ TG群: https://t.me/e900v22c
 ![descript](media/64cfe7480d7cccb46bc627d7b0e73b55.png)
 
 ## 0.4 FAQ
-
-### 蓝牙和无线
-
-在安卓/ATV下无线蓝牙正常，Linux（EmuELEC/CoreELEC/Armbian/OpenWRT）下由于dtb/uwe5621尚无编译，无法驱动蓝牙和无线网。
-
-### 其他盒子能否通刷22c固件
-
-见0.5小节，不是S905L3A/L3A-B主控的不能同刷，相同主控、2G/8G的就按照0.5小节试，拆开盒子，看下主控型号，一样的话不必多问，刷就完了。
 
 ## 0.5 TF卡加装
 
