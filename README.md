@@ -13,6 +13,7 @@ TG群: https://t.me/e900v22c
 跟着[Flippy大佬](https://www.right.com.cn/forum/thread-4076037-1-1.html) 一起学习破解e900v22c，期待你的加入，详见更多聊天组：<https://t.me/e900v22c>。
 
 相关项目：
+
 <https://github.com/ophub/amlogic-s9xxx-armbian>
 
 <https://github.com/ophub/amlogic-s9xxx-openwrt>
