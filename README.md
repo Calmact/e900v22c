@@ -2,9 +2,9 @@
 
 ### 讨论组
 
-QQ群: 320724049
+QQ群: [320724049](https://jq.qq.com/?_wv=1027&k=cP3AWZeI)
 
-TG群: https://t.me/e900v22c
+TG群: [https://t.me/e900v22c]
 
 # 〇、简介与概述
 
