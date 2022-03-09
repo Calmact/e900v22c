@@ -10,7 +10,7 @@ TG群: <https://t.me/e900v22c>
 
 本文档 <https://docs.qq.com/doc/DWFprWWxZa290VXNk> 所有人都可以查看，主要由群主（QQ群：320724049）进行维护，不定时更新。如果你有补充的，联系群主获取编辑权限，编辑方法和word相同。
 
-跟着[Flippy大佬](https://www.right.com.cn/forum/thread-4076037-1-1.html) 一起学习破解e900v22c，期待你的加入，详见：<https://t.me/e900v22c>。
+跟着[Flippy大佬](https://www.right.com.cn/forum/thread-4076037-1-1.html) 一起学习安卓/linux/uboot/dtb/e900v22c，期待你的加入，详见：<https://t.me/e900v22c>。
 
 相关项目：
 
