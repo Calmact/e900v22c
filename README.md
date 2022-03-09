@@ -67,7 +67,11 @@ TG群: [https://t.me/e900v22c]
 ![descript](media/64cfe7480d7cccb46bc627d7b0e73b55.png)
 
 
-# 以下内容详见在线文档 <https://docs.qq.com/doc/DWFprWWxZa290VXNk> 或讨论组 QQ群: 320724049/ TG群: https://t.me/e900v22c
+# 以下内容详见[在线文档] (https://docs.qq.com/doc/DWFprWWxZa290VXNk)或讨论组
+
+QQ群: [320724049](https://jq.qq.com/?_wv=1027&k=cP3AWZeI)
+
+TG群: [https://t.me/e900v22c]
 
 ## 0.4 FAQ
 
