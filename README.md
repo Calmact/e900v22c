@@ -10,7 +10,14 @@ TG群: https://t.me/e900v22c
 
 本文档 <https://docs.qq.com/doc/DWFprWWxZa290VXNk> 所有人都可以查看，主要由群主（QQ群：320724049）进行维护，不定时更新。如果你有补充的，联系群主获取编辑权限，编辑方法和word相同。
 
-跟着[Flippy大佬](https://www.right.com.cn/forum/thread-4076037-1-1.html) 一起学习破解e900v22c，期待你的加入，详见更多聊天组：<https://t.me/e900v22c>，。
+跟着[Flippy大佬](https://www.right.com.cn/forum/thread-4076037-1-1.html) 一起学习破解e900v22c，期待你的加入，详见更多聊天组：<https://t.me/e900v22c>。
+
+相关项目：
+<https://github.com/ophub/amlogic-s9xxx-armbian>
+
+<https://github.com/ophub/amlogic-s9xxx-openwrt>
+
+<https://github.com/unifreq/openwrt_packit>
 
 ## 0.0 更新日志
 
@@ -57,7 +64,11 @@ TG群: https://t.me/e900v22c
 
 ![descript](media/64cfe7480d7cccb46bc627d7b0e73b55.png)
 
+
+# 以下内容详见在线文档 <https://docs.qq.com/doc/DWFprWWxZa290VXNk> 或讨论组 QQ群: 320724049/ TG群: https://t.me/e900v22c
+
 ## 0.4 FAQ
+
 
 ## 0.5 TF卡加装
 
