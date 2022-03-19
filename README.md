@@ -20,6 +20,8 @@ TG群: <https://t.me/e900v22c>
 
 <https://github.com/unifreq/openwrt_packit>
 
+<https://aidansrom.wordpress.com/>
+
 ## 0.0 更新日志
 
 1.  0307，v1.0.1 更新adb开启方法 by 群主
