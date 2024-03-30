@@ -20,6 +20,12 @@ TG群: <https://t.me/e900v22c>
 
 <https://github.com/unifreq/openwrt_packit>
 
+<https://github.com/KryptonLee/e900v22c-CoreELEC>
+
+<https://github.com/KryptonLee/u-boot-e900v22c>
+
+<https://github.com/KryptonLee/uwe5621ds-aml>
+
 <https://aidansrom.wordpress.com/>
 
 ## 0.0 更新日志
